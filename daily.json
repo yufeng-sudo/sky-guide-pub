@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "imgs": [
     {
       "tag": "每日任务",
@@ -19,8 +19,8 @@
     },
     {
       "tag": "天气预报",
-      "src": "https://api.t1qq.com/api/sky/sc/gf/json/img/tq20261105.jpg"
+      "src": "https://api.t1qq.com/api/sky/sc/gf/json/img/tq20261106.jpg"
     }
   ],
-  "updated_at": "2026-11-05T21:58:01"
+  "updated_at": "2026-11-06T21:22:43"
 }
